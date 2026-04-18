@@ -64,10 +64,6 @@ Apache Maven for dependency management.
 
 Build Instructions
 
-Clone the repository:
-
-git clone [https://github.com/your-username/clinic-scheduler.git](https://github.com/your-username/clinic-scheduler.git)
-cd clinic-scheduler
 
 
 Compile and Package:
