@@ -90,9 +90,6 @@ Book Appointment: Match Patient ID with Doctor ID for a specific date/time.
 
 View Medical History: Retrieve all past records for a specific patient.
 
-📸 Screenshots
-
-(Add your project screenshots here)
 
 Main Menu
 
